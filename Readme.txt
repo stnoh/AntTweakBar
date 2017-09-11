@@ -13,7 +13,7 @@ For installation and documentation please refer to:
 http://anttweakbar.sourceforge.net/doc
 
 
-My Addition:
+Addition by sasmaster (https://github.com/sasmaster/AntTweakBarGLFW3):
 
 Because on my projects I upgraded to GLFW3 I also needed to modify the source 
 of the AntTweakBar as it  supported only GLFW 2.X
@@ -21,7 +21,6 @@ I am not sure I implemented all the callback methods from GLFW3.You can
 check in AntTweakBar.h what is implemented currently.
 
 
+Addition by stnoh (https://github.com/stnoh/AntTweakBar):
 
-
-
-
+- I compiled the new repo in VS2015, and update the new binary files.
